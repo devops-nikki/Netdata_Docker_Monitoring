@@ -37,15 +37,15 @@ docker run -d --name=netdata \
 
 ## 3️⃣ Explore Metrics
 
- - CPU Usage – % user, % system, load averages.
+ - **CPU Usage – % user, % system, load averages.**
 
- - Memory Usage – Used, free, cached, buffers.
+ - **Memory Usage – Used, free, cached, buffers.**
 
- - Disk I/O – Read/write throughput, IOPS.
+ - **Disk I/O – Read/write throughput, IOPS.**
 
- - Docker Containers – Resource usage per container.
+ - **Docker Containers – Resource usage per container.**
 
- - Alerts Panel – Active warnings or critical alerts.
+ - **Alerts Panel – Active warnings or critical alerts.**
 
 
 ## 4️⃣ View Logs
@@ -96,24 +96,6 @@ cat error.log
   <img src="screenshots/Live_Container_Metric_2.png" alt="Docker Container Metrics 2" width="800">
 </div>
 
-- Netdata Installed & Container is Running
-![Netdata Container](screenshots/netdata_running.png)
-
-🖥 System Overview
-![System Overview](screenshots/System_Metric.png)
-
-⚙ CPU Metrics
-![CPU Metrics](screenshots/CPU_Metrics.png)
-
-💾 Memory Metrics
-![Memory Metrics](screenshots/Memory_Metrics.png)
-
-📀 Disk Metrics
-![Disk Metrics](screenshots/Disk_Metrics.png)
-
-🐳Live Docker Container Metrics
-![Docker Container Metrics](screenshots/Live_Container_Metric.png)
-![Docker Container Metrics](screenshots/Live_Container_Metric.2.png)
 ---
 
 ## 🎯 Outcome

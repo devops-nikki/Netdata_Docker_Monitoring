@@ -61,7 +61,42 @@ cat error.log
 
 📸 Screenshots
 
-Netdata Installed & Container is Running
+
+## 🖥️ System Overview
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/System_Metric.png" alt="System Overview" width="800">
+</div>
+
+## 📦 Netdata Container
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/netdata_running.png" alt="Netdata Container Running" width="800">
+</div>
+
+## 💻 CPU Metrics
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/CPU_Metrics.png" alt="CPU Metrics" width="800">
+</div>
+
+## 🧠 Memory Metrics
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/Memory_Metrics.png" alt="Memory Metrics" width="800">
+</div>
+
+## 💽 Disk Metrics
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/Disk_Metrics.png" alt="Disk Metrics" width="800">
+</div>
+
+## 📊 Live Docker Container Metrics
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/Live_Container_Metric.png" alt="Docker Container Metrics 1" width="800">
+</div>
+
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 15px;">
+  <img src="screenshots/Live_Container_Metric_2.png" alt="Docker Container Metrics 2" width="800">
+</div>
+
+- Netdata Installed & Container is Running
 ![Netdata Container](screenshots/netdata_running.png)
 
 🖥 System Overview
